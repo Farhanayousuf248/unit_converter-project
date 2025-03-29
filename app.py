@@ -1,5 +1,3 @@
-
-
 import streamlit as st 
 
 def convert_units(value: float, unit_from: str, unit_to: str):
@@ -49,5 +47,7 @@ def main():
    # print("Converted value is:", result)
 
 ##    Run the program
-main()
+
+st.sidebar.markdown("created by **Farhana Yousuf** 
+ main()
 
